@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**nhuphham/nhuphham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GITHUB](https://user-images.githubusercontent.com/44100814/194193004-eca14932-57f4-497b-9442-c7b437c1c030.png)
+
+
 
 Here are some ideas to get you started:
 
